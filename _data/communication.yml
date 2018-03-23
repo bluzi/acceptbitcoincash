@@ -1,9 +1,6 @@
 websites:
     - name: Basecamp
-      url: https://basecamp.com/
-      img: basecamp.png
-      twitter: basecamp
-      facebook: 37signals
+
       bch: No
       btc: No
       othercrypto: No
@@ -51,21 +48,7 @@ websites:
       btc: No
       othercrypto: No
 
-    - name: Fleep
-      url: https://fleep.io
-      twitter: fleepio
-      facebook: fleepio
-      img: fleep.png
-      bch: No
-      btc: No
-      othercrypto: No
 
-    - name: Flowdock
-      url: https://www.flowdock.com
-      twitter: flowdock
-      facebook: flowdock
-      img: flowdock.png
-      bch: No
       btc: No
       othercrypto: No
 
